@@ -9,8 +9,3 @@ This project involves the development of a language server for ECMA-SL, a formal
 - **Go-to-Definition:** Allows quick navigation to the definition of variables and functions.
 - **Hover:** Displays detailed type information and function signatures when hovering over variables or functions.
 - **Code Completion:** Suggests keywords, functions, and parameters while typing.
-
-## Future Work
-
-Plans include integrating more advanced features such as static type-checking and improved performance optimizations.
-
